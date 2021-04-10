@@ -1,0 +1,159 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+	font-family: 'Open Sans', sans-serif;
+}
+.hedder{
+	width: 650px;
+	height: 5vh;
+	padding-top: 25px;
+	margin: auto;
+}
+.button1{
+	width: 80px;
+	height: 25px;
+	float: left;
+	margin-left: 10px;
+	text-align: center;
+	padding-top: 5px;
+	color: #909090;
+	border: none;
+	font-size: 15px;
+}
+.button1:hover{
+	border-bottom: 1px solid #96d7c5;
+}
+.Cont{
+	width: 1300px;
+	height: 1150px;
+	margin: auto; 
+	margin-top: 25px;
+}
+.bImg1{
+	width: 300px;
+	height: 1150px;
+	float: left;
+	margin-left: 35px;
+}
+.bImg2{
+	width: 300px;
+	height: 1150px;
+	float: left;
+	margin-left: 10px;
+}
+.bImg3{
+	width: 300px;
+	height: 1150px;
+	float: left;
+	margin-left: 10px;
+}
+.bImg4{
+	width: 300px;
+	height: 1150px;
+	float: left;
+	margin-left: 10px;
+}
+.img1{
+	width: 300px;
+	height: 400px;
+	background-color: gray;
+	margin-top: 10px;
+}
+.img2{
+	width: 300px;
+	height: 250px;
+	background-color: gray;
+	margin-top: 10px;
+}
+.img3{
+	width: 300px;
+	height: 325px;
+	background-color: gray;
+	margin-top: 10px;
+}
+.q1{
+	background-image: url(https://iqwoman.com/wp-content/uploads/vidy-stilej-v-odezhde-15.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.q2{
+	background-image: url(https://i.pinimg.com/736x/3d/f9/9a/3df99ab28f698cb85b537d02bdb5ff5e.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.q3{
+	background-image: url(https://i.pinimg.com/736x/dc/1d/c6/dc1dc6b5c41fa901fc3c268914c73f9c.jpg);
+	background-size: cover;
+	background-position: top;
+}
+.q4{
+	background-image: url(https://obliqo.ru/wp-content/uploads/2019/09/cveta-odezhdy-v-stile-kjezhual.jpg);
+	background-size: cover;
+	background-position: top;
+}
+.q5{
+	background-image: url(https://www.memorandum.com/wp-content/uploads/2018/07/best-paris-work-meeting-restaurants-cafes-clamato-septime-fragments-marais-pink-mama11.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.q6{
+	background-image: url(https://i.pinimg.com/736x/ff/2b/26/ff2b26d91794958d21da73dcda432c7b--sweater-and-shorts-studded-sweater.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.q7{
+	background-image: url(https://avatars.mds.yandex.net/get-zen_doc/985972/pub_5bd2b40a68be0c00aa8b1c1f_5bd2b42772e96d00aaca8bb9/scale_1200);
+	background-size: cover;
+	background-position: center;
+}
+.q8{
+	background-image: url(https://ratatum.com/wp-content/uploads/2018/06/s1200-69.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.q9{
+	background-image: url(https://r1.mt.ru/r22/photoE20D/20960129676-0/jpg/bp.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+.q10{
+	background-image: url(https://i.pinimg.com/736x/44/a7/14/44a7143215c2e0bec4279db42bc4782a.jpg);
+	background-size: cover;
+	background-position: top;
+}
+.q11{
+	background-image: url(https://img11.postila.ru/data/11/0c/03/f3/110c03f365bc17bbb99bc202762368136715ff67108f85dfdc16f890afbc86cc.jpg);
+	background-size: cover;
+	background-position: top;
+}
+.q12{
+	background-image: url(https://mtdata.ru/u26/photo9496/20528243320-0/original.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.kk{
+	background-color: #00000000;
+	height: 100%;
+	color: white;
+	opacity: 0;
+}
+.kk:hover{
+	background-color: #00000066;
+	opacity: 1;
+}
+.ii{
+	width: 170px;
+	height: 50px;
+	color: #85ffdd;
+	font-size: 30px;
+	margin: auto;
+	padding-top: 40%;
+	border-bottom: 1px solid #85ffdd;
+}
+
+
+
+
+
+
